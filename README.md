@@ -1,10 +1,9 @@
-**chee/chee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center>
 
-- 🔭 I’m currently working on ... :rabbit:
-- 🌱 I’m currently learning ... :rabbit:
-- 👯 I’m looking to collaborate on ... :rabbit:
-- 🤔 I’m looking for help with ... :rabbit:
-- 💬 Ask me about ... :rabbit:
-- 📫 How to reach me: ... :rabbit:
-- 😄 Pronouns: ... :rabbit:
-- ⚡ Fun fact: ... :rabbit:
+<h1> chee </h1>
+
+<p>the largest rabbit in the world
+
+<p><a href="https://sr.ht/~chee/">sr.ht/~chee
+
+<p>🐰
