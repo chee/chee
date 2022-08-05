@@ -1,0 +1,22 @@
+{
+  "name": "chee",
+  "version": "0.0.0-0.0.0-chee",
+  "description": "chee",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo :)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chee/chee.git"
+  },
+  "keywords": [
+    "chee"
+  ],
+  "author": "chee",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/chee/chee/issues"
+  },
+  "homepage": "https://github.com/chee/chee#readme"
+}
